@@ -5,6 +5,6 @@ This is a school project, developing a 3D scene, or something more lika a game, 
 
 ## Open the command line on VSCode and follow these steps under:
 
-$ cd balista-threejs
-$ npm install
+$ cd balista-threejs <br>
+$ npm install <br>
 $ npm run dev
